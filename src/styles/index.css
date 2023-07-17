@@ -38,8 +38,8 @@ body {
 .roja.seleccionada,
 .naranja.seleccionada,
 .verde.seleccionada {
-    filter: brightness(1.5);
-    box-shadow: 0 0 5px 5px #fff;
+    filter: brightness(2);
+    box-shadow: 0 0 5px 10px #fff;
 }
 
 
